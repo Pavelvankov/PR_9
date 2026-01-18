@@ -1,0 +1,41 @@
+<Page x:Class="PriemPatient.Pages.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PriemPatient.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="350"
+      Title="LoginPage"
+      Background="{DynamicResource WindowBackground}"
+      >
+
+    <Grid Style="{StaticResource Grid1}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label FontSize="30" FontWeight="Bold">Вход</Label>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Style="{StaticResource PanelForm}">
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="ID Пользователя"/>
+                <TextBox x:Name="LogId"/>
+            </StackPanel>
+
+            <StackPanel Style="{StaticResource PanelField}">
+                <Label Content="Пароль"/>
+                <TextBox x:Name="LogPass"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Style="{StaticResource PanelBottomCenter}">
+            <Button Style="{StaticResource Button1}" Click="LogInButton_Click">Войти</Button>
+            <Button Style="{StaticResource Button1}" Click="RegButton_Click">Регистрация</Button>
+        </StackPanel>
+    </Grid>
+</Page>

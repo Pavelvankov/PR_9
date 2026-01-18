@@ -1,0 +1,261 @@
+Ñòðóêòóðà ïàïîê
+Ñåðèéíûé íîìåð òîìà: 262E-071B
+C:.
+¦   App.config
+¦   App.xaml
+¦   App.xaml.cs
+¦   AssemblyInfo.cs
+¦   MainWindow.xaml
+¦   MainWindow.xaml.cs
+¦   Patient.cs
+¦   pract8.csproj
+¦   pract8.csproj.user
+¦   pract8.sln
+¦   ThemeHelper.cs
+¦   tree.txt
+¦   User.cs
+¦   
++---.vs
+¦   +---pract8
+¦   ¦   +---DesignTimeBuild
+¦   ¦   ¦       .dtbcache.v2
+¦   ¦   ¦       
+¦   ¦   +---FileContentIndex
+¦   ¦   ¦       1f382954-a57a-4f71-ad8f-8ad83f441452.vsidx
+¦   ¦   ¦       21541341-a53f-402e-b928-8ea6d61e8035.vsidx
+¦   ¦   ¦       8c771693-035e-4463-89e9-aed6e735f40f.vsidx
+¦   ¦   ¦       acea679f-0373-4388-b098-e8ae75dfa122.vsidx
+¦   ¦   ¦       eb613be3-fb74-45ff-a133-4dc3472c1a2c.vsidx
+¦   ¦   ¦       
+¦   ¦   +---v17
+¦   ¦   ¦       .futdcache.v2
+¦   ¦   ¦       DocumentLayout.backup.json
+¦   ¦   ¦       DocumentLayout.json
+¦   ¦   ¦       
+¦   ¦   L---v18
+¦   ¦           .futdcache.v2
+¦   ¦           .suo
+¦   ¦           DocumentLayout.backup.json
+¦   ¦           DocumentLayout.json
+¦   ¦           
+¦   +---pract8_kirichenko
+¦   ¦   L---FileContentIndex
+¦   ¦           747d6053-81c6-4e97-a57d-399e58ed60ee.vsidx
+¦   ¦           
+¦   L---ProjectEvaluation
+¦           pract8.metadata.v9.bin
+¦           pract8.projects.v9.bin
+¦           pract8.strings.v9.bin
+¦           pract8_kirichenko.metadata.v10.bin
+¦           pract8_kirichenko.metadata.v7.bin
+¦           pract8_kirichenko.projects.v10.bin
+¦           pract8_kirichenko.projects.v7.bin
+¦           pract8_kirichenko.strings.v10.bin
+¦           pract8_kirichenko.strings.v9.bin
+¦           
++---bin
+¦   L---Debug
+¦       L---net8.0-windows
+¦               D_2609.json
+¦               D_4486.json
+¦               D_6725.json
+¦               D_9620.json
+¦               Newtonsoft.Json.dll
+¦               pract7.deps.json
+¦               pract8.deps.json
+¦               pract8.dll
+¦               pract8.dll.config
+¦               pract8.exe
+¦               pract8.pdb
+¦               pract8.runtimeconfig.json
+¦               P_21200.json
+¦               P_31068.json
+¦               P_56630.json
+¦               P_65603.json
+¦               P_72940.json
+¦               P_85864.json
+¦               P_86256.json
+¦               P_88323.json
+¦               theme.txt
+¦               
++---obj
+¦   ¦   pract8.csproj.nuget.dgspec.json
+¦   ¦   pract8.csproj.nuget.g.props
+¦   ¦   pract8.csproj.nuget.g.targets
+¦   ¦   project.assets.json
+¦   ¦   project.nuget.cache
+¦   ¦   
+¦   L---Debug
+¦       L---net8.0-windows
+¦           ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦           ¦   App.baml
+¦           ¦   App.g.cs
+¦           ¦   App.g.i.cs
+¦           ¦   apphost.exe
+¦           ¦   MainWindow.baml
+¦           ¦   MainWindow.g.cs
+¦           ¦   MainWindow.g.i.cs
+¦           ¦   pract8.AssemblyInfo.cs
+¦           ¦   pract8.AssemblyInfoInputs.cache
+¦           ¦   pract8.assets.cache
+¦           ¦   pract8.csproj.AssemblyReference.cache
+¦           ¦   pract8.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8.csproj.CoreCompileInputs.cache
+¦           ¦   pract8.csproj.FileListAbsolute.txt
+¦           ¦   pract8.csproj.Up2Date
+¦           ¦   pract8.designer.deps.json
+¦           ¦   pract8.designer.runtimeconfig.json
+¦           ¦   pract8.dll
+¦           ¦   pract8.g.resources
+¦           ¦   pract8.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8.genruntimeconfig.cache
+¦           ¦   pract8.GlobalUsings.g.cs
+¦           ¦   pract8.pdb
+¦           ¦   pract8_0pxepp5z_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_0pxepp5z_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_0pxepp5z_wpftmp.assets.cache
+¦           ¦   pract8_0pxepp5z_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_0pxepp5z_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_0pxepp5z_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_2czk4ziq_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_2czk4ziq_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_2czk4ziq_wpftmp.assets.cache
+¦           ¦   pract8_2czk4ziq_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_2czk4ziq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_2czk4ziq_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_5cnw1zm1_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_5cnw1zm1_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_5cnw1zm1_wpftmp.assets.cache
+¦           ¦   pract8_5cnw1zm1_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_5cnw1zm1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_5cnw1zm1_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_5t4ekkkb_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_5t4ekkkb_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_5t4ekkkb_wpftmp.assets.cache
+¦           ¦   pract8_5t4ekkkb_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_5t4ekkkb_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_5t4ekkkb_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_bgveodwq_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_bgveodwq_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_bgveodwq_wpftmp.assets.cache
+¦           ¦   pract8_bgveodwq_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_bgveodwq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_bgveodwq_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_bhlut1to_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_bhlut1to_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_bhlut1to_wpftmp.assets.cache
+¦           ¦   pract8_bhlut1to_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_bhlut1to_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_bhlut1to_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_kc0jssfg_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_kc0jssfg_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_kc0jssfg_wpftmp.assets.cache
+¦           ¦   pract8_kc0jssfg_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_kc0jssfg_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_kc0jssfg_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_MarkupCompile.cache
+¦           ¦   pract8_MarkupCompile.i.cache
+¦           ¦   pract8_MarkupCompile.i.lref
+¦           ¦   pract8_MarkupCompile.lref
+¦           ¦   pract8_qxnkl1h1_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_qxnkl1h1_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_qxnkl1h1_wpftmp.assets.cache
+¦           ¦   pract8_qxnkl1h1_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_qxnkl1h1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_qxnkl1h1_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_sabggt22_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_sabggt22_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_sabggt22_wpftmp.assets.cache
+¦           ¦   pract8_sabggt22_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_sabggt22_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_sabggt22_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_wjhiefyk_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_wjhiefyk_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_wjhiefyk_wpftmp.assets.cache
+¦           ¦   pract8_wjhiefyk_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_wjhiefyk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_wjhiefyk_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_wjhiefyk_wpftmp.sourcelink.json
+¦           ¦   pract8_xjzbasyo_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_xjzbasyo_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_xjzbasyo_wpftmp.assets.cache
+¦           ¦   pract8_xjzbasyo_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_xjzbasyo_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_xjzbasyo_wpftmp.GlobalUsings.g.cs
+¦           ¦   pract8_zmoqshwc_wpftmp.AssemblyInfo.cs
+¦           ¦   pract8_zmoqshwc_wpftmp.AssemblyInfoInputs.cache
+¦           ¦   pract8_zmoqshwc_wpftmp.assets.cache
+¦           ¦   pract8_zmoqshwc_wpftmp.csproj.BuildWithSkipAnalyzers
+¦           ¦   pract8_zmoqshwc_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   pract8_zmoqshwc_wpftmp.GlobalUsings.g.cs
+¦           ¦   
+¦           +---Pages
+¦           ¦       AddPatientPage.baml
+¦           ¦       AddPatientPage.g.cs
+¦           ¦       AddPatientPage.g.i.cs
+¦           ¦       EditPatientPage.baml
+¦           ¦       EditPatientPage.g.cs
+¦           ¦       EditPatientPage.g.i.cs
+¦           ¦       EditPriemPage.baml
+¦           ¦       EditPriemPage.g.cs
+¦           ¦       EditPriemPage.g.i.cs
+¦           ¦       LoginPage.baml
+¦           ¦       LoginPage.g.cs
+¦           ¦       LoginPage.g.i.cs
+¦           ¦       MainPage.baml
+¦           ¦       MainPage.g.cs
+¦           ¦       MainPage.g.i.cs
+¦           ¦       PriemPage.baml
+¦           ¦       PriemPage.g.cs
+¦           ¦       PriemPage.g.i.cs
+¦           ¦       Registration.baml
+¦           ¦       Registration.g.cs
+¦           ¦       Registration.g.i.cs
+¦           ¦       RegistrationPage.baml
+¦           ¦       RegistrationPage.g.cs
+¦           ¦       RegistrationPage.g.i.cs
+¦           ¦       
+¦           +---ref
+¦           ¦       pract8.dll
+¦           ¦       
+¦           +---refint
+¦           ¦       pract8.dll
+¦           ¦       
+¦           L---Styles
+¦               +---Colors
+¦               ¦       DarkTheme.baml
+¦               ¦       LightTheme.baml
+¦               ¦       
+¦               L---UI
+¦                       Controls.baml
+¦                       
++---Pages
+¦       AddPatientPage.xaml
+¦       AddPatientPage.xaml.cs
+¦       EditPatientPage.xaml
+¦       EditPatientPage.xaml.cs
+¦       EditPriemPage.xaml
+¦       EditPriemPage.xaml.cs
+¦       LoginPage.xaml
+¦       LoginPage.xaml.cs
+¦       MainPage.xaml
+¦       MainPage.xaml.cs
+¦       PriemPage.xaml
+¦       PriemPage.xaml.cs
+¦       Registration.xaml
+¦       Registration.xaml.cs
+¦       RegistrationPage.xaml
+¦       RegistrationPage.xaml.cs
+¦       
++---Properties
+¦       Settings.Designer.cs
+¦       Settings.settings
+¦       
+L---Styles
+    +---Colors
+    ¦       DarkTheme.xaml
+    ¦       LightTheme.xaml
+    ¦       
+    L---UI
+            Controls.xaml
+            
